@@ -1,19 +1,19 @@
 {
-    "id": "catz",
-    "name": "Catz",
-    "author": "JoanFo",
-    "version": "1.0.0",
-    "description": "Catz",
-    "category": "language",
-    "url": "https://github.com/JoanFo1456/Catz",
-    "update_url": "https://github.com/JoanFo1456/Catz",
-    "namespace": "JoanFo\\Catz",
-    "class": "CatzPlugin",
-    "panels": [
-        "admin",
-        "server",
-        "app"
-    ],
-    "panel_version": null,
-    "composer_packages": null
+  "id": "catz",
+  "name": "Catz",
+  "author": "JoanFo",
+  "version": "1.0.0",
+  "description": "Catz",
+  "category": "language",
+  "url": "https://github.com/JoanFo1456/Catz",
+  "update_url": "https://github.com/JoanFo1456/Catz",
+  "namespace": "JoanFo\\Catz",
+  "class": "CatzPlugin",
+  "panels": [
+    "admin",
+    "server",
+    "app"
+  ],
+  "panel_version": null,
+  "composer_packages": null
 }
