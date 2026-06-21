@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'title' => 'DataBowls',
+    'empty' => 'No DataBowlz',
+    'create_database' => 'Make New DataBowl',
+    'limit' => 'Too many DataBowls, meow!',
+    'viewing' => 'Lookin at: :database',
+    'host' => 'Hostcat',
+    'database' => 'DataBowl',
+    'username' => 'Usercat',
+    'password' => 'Secret Paw',
+    'remote' => 'From Where',
+    'unlimited' => 'No Limitz',
+    'created_at' => 'Made at',
+    'name' => 'DataBowl Name',
+    'name_hint' => 'Leave blank for random cat name',
+    'connections_from' => 'Catnections From',
+    'max_connections' => 'Max Catnections',
+    'database_host' => 'DataBowl Host',
+    'database_host_select' => 'Pick DataBowl Host',
+    'jdbc' => 'JDBC Cat String',
+    'create_notification' => 'Made DataBowl :database, nom nom!',
+    'create_notification_fail' => 'Could not make DataBowl :database, sad cat',
+    'delete_notification' => 'Deleted DataBowl :database, poof!',
+    'delete_notification_fail' => 'Could not delete DataBowl :database, stuck like a cat in a box',
+];
